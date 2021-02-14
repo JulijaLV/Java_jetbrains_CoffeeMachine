@@ -30,9 +30,11 @@
             <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
             <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/Symmetric matrix" />
             <option value="$PROJECT_DIR$/Problems/The index of the first max in an array" />
             <option value="$PROJECT_DIR$/Problems/The longest ascending sequence" />
             <option value="$PROJECT_DIR$/Problems/The sign of a number" />
+            <option value="$PROJECT_DIR$/Problems/The star figure" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
